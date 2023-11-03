@@ -17,7 +17,8 @@ h1, h2, h3 {
 
 aside {
 	float: left;
-	width: 30%;
+	width: 20%;
+	margin-left: 5%;
 	
 }
 
@@ -27,7 +28,6 @@ footer {
 
 header {
 margin-bottom: 8%;
-
 }
 
 img {
@@ -41,7 +41,7 @@ main {
 
 nav {
 	float: left;
-	width: 10%;
+	width: 15s%;
 
 }
 
@@ -50,5 +50,5 @@ nav {
 }
 
 #main-container {
-
+	font-size: 140%;
 }
