@@ -24,10 +24,11 @@ aside {
 
 footer {
 	clear: left;
+	font-size: 110%;
 }
 
 header {
-margin-bottom: 40px;
+margin-bottom: 80px;
 }
 
 img {
@@ -36,7 +37,7 @@ img {
 
 main {
 	float: left;
-	width: 45%;
+	width: 44%;
 }
 
 nav {
